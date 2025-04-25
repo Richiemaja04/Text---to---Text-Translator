@@ -2,8 +2,6 @@
 
 A web-based application that provides real-time translation between multiple languages using Hugging Face's MarianMT models.
 
-![Real-Time Translator Screenshot](https://github.com/yourusername/real-time-translator/raw/main/screenshots/translator-demo.png)
-
 ## Features
 
 - **Real-time translation** with debounced input for efficient API usage
